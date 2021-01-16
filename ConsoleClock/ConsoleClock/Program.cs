@@ -35,9 +35,9 @@ namespace ASCII_Clock
 
         static void TimeFunc()
         {
-            h = DateTime.Now.ToString("hh");
-            m = System.DateTime.Now.ToString("mm");
-            s = System.DateTime.Now.ToString("ss");
+            h = DateTime.Now.ToString("HH");
+            m = DateTime.Now.ToString("mm");
+            s = DateTime.Now.ToString("ss");
 
             Console.Clear();
             for (int i = 0; i < 10; i++)

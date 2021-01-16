@@ -1,0 +1,15 @@
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ConsoleClock.exe
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ConsoleClock.deps.json
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ConsoleClock.runtimeconfig.json
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ConsoleClock.runtimeconfig.dev.json
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ConsoleClock.dll
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ref\ConsoleClock.dll
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\net5.0\ConsoleClock.pdb
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.AssemblyInfoInputs.cache
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.AssemblyInfo.cs
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.csproj.CoreCompileInputs.cache
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.dll
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ref\ConsoleClock.dll
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.pdb
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\net5.0\ConsoleClock.genruntimeconfig.cache
