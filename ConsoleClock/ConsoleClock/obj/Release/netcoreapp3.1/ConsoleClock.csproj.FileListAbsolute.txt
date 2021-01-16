@@ -1,0 +1,13 @@
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\netcoreapp3.1\ConsoleClock.exe
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\netcoreapp3.1\ConsoleClock.deps.json
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\netcoreapp3.1\ConsoleClock.runtimeconfig.json
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\netcoreapp3.1\ConsoleClock.runtimeconfig.dev.json
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\netcoreapp3.1\ConsoleClock.dll
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Release\netcoreapp3.1\ConsoleClock.pdb
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.csprojAssemblyReference.cache
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.AssemblyInfoInputs.cache
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.AssemblyInfo.cs
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.csproj.CoreCompileInputs.cache
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.dll
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.pdb
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\obj\Release\netcoreapp3.1\ConsoleClock.genruntimeconfig.cache

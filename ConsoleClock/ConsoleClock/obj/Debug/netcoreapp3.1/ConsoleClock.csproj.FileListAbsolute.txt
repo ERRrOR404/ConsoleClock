@@ -1,0 +1,2 @@
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Debug\netcoreapp3.1\ConsoleClock.exe
+C:\Users\error\Desktop\vs_Project\ConsoleClock\ConsoleClock\bin\Debug\netcoreapp3.1\ConsoleClock.dll
