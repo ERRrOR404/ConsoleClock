@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/errror404/consoleclock/badge)](https://www.codefactor.io/repository/github/errror404/consoleclock)
 # ConsoleClock
 숫자가 크게 출력되는 콘솔 시계입니다.
 # How to use
